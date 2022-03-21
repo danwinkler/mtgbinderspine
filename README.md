@@ -19,3 +19,7 @@ Generate an image with spines for Throne of Eldraine and Kaladesh:
 Generate a spine for a 2" binder:
 
 `mtgbinderspine -w 2 m13`
+
+## Images
+
+![bfz_ktk_chk](docs/images/bfz_ktk_chk.png)
