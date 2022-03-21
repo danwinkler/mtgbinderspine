@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "mtgbinderspine"
-version = "0.1.1"
+version = "0.1.2"
 description = "A tool to generate printable labels for binders of Magic: The Gathering cards"
 readme = "README.md"
 authors = ["Dan Winkler <dan@danwink.com>"]
