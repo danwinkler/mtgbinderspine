@@ -20,6 +20,12 @@ Generate a spine for a 2" binder:
 
 `mtgbinderspine -w 2 m13`
 
+Generate a spine with multiple icons and a custom image:
+
+`poetry run mtgbinderspine ddn ddk ddg ddd dde ddc dd1 ddl --custom-text "Duel Decks"`
+
 ## Images
 
 ![bfz_ktk_chk](docs/images/bfz_ktk_chk.png)
+
+![duel_decks](docs/images/duel_decks.png)
